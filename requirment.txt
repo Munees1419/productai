@@ -1,0 +1,7 @@
+strealit
+requests
+login
+welcome
+flipkart
+pandas
+BeautifulSoap4
