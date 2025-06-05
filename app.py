@@ -1,4 +1,4 @@
-import flipkart as fk
+import flipkart.py as fk
 import welcome as wel
 import login as lg
 import streamlit as st
